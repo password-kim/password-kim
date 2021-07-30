@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @password-kim
 - 👀 I’m interested in Game Developer
 - 🌱 I’m currently learning Game Server, DirectX12, Unreal Engine
-- 💞️ I’m looking to collaborate on Game Developer
+- 💞️ I’m looking to collaborate on Game Developer or CPP Developer
 - 📫 How to reach me galaxykim0611@gmail.com
 
 <!---

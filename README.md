@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @password-kim
 - 👀 I’m interested in Game Developer
 - 🌱 I’m currently learning Unity, C#, C++
-- 💞️ I’m looking to collaborate on Game Developer or CPP Developer
+- 💞️ I’m looking to collaborate on Game Developer
 - 📫 How to reach me galaxykim0611@gmail.com
 
 <!---
